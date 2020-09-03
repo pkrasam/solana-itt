@@ -15,7 +15,7 @@ You can find the step-by-step guide here
 
 ### Upon Completion
 
-![setup](../itt/images/itt-approach-A-complete.png)
+![setup](../itt/images/solana-itt-complete.png)
 
 
 ## Step-by-step guide
