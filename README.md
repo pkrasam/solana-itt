@@ -15,7 +15,7 @@ You can find the step-by-step guide here
 
 ### Upon Completion
 
-![setup](../itt/images/solana-itt-complete.png)
+![setup](images/solana-itt-complete.png)
 
 
 ## Step-by-step guide
@@ -146,8 +146,8 @@ docker logs
 
 ### Setup, Run, Complete
 
-![setup](../../itt/images/itt-approach-A-setup.png)
+![setup](images/solana-itt-setup.png)
 
-![run](../../itt/images/itt-approach-A-run.png)
+![run](images/solana-itt-run.png)
 
-![setup](../../itt/images/itt-approach-A-complete.png)
+![setup](images/solana-itt-complete.png)
